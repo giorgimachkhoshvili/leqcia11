@@ -118,6 +118,15 @@ section{
     margin-right: 100px;
 }
 
+.div13{
+    height: 157px;
+    width: 226px;
+    margin-left: 66px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 100px;
+
+}
 
 .div7{
     width: 68px;
@@ -175,6 +184,12 @@ section{
 
 
 .div9{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 99px;
+}
+
+.div14{
     display: inline-block;
     vertical-align: middle;
     margin-right: 99px;
@@ -258,7 +273,6 @@ li{
     line-height: normal;
     margin-top: 19px;
 }
-
 
 
 
